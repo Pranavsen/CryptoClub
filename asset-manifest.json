@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CryptoClub/static/css/main.3e5d42c3.css",
+    "main.js": "/CryptoClub/static/js/main.b7aef833.js",
+    "index.html": "/CryptoClub/index.html",
+    "main.3e5d42c3.css.map": "/CryptoClub/static/css/main.3e5d42c3.css.map",
+    "main.b7aef833.js.map": "/CryptoClub/static/js/main.b7aef833.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e5d42c3.css",
+    "static/js/main.b7aef833.js"
+  ]
+}
